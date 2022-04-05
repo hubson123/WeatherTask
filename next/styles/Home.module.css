@@ -20,12 +20,11 @@
   justify-content: center;
   align-items: center;
 }
-
-.footer a {
+.header {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  flex-grow: 1;
+  padding: 0 2rem;
 }
 
 .title a {
