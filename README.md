@@ -2,8 +2,6 @@
 
 # Commands
 
-# 'cd next'
-
-# 'yarn install'
-
-# 'yarn dev'
+# cd next
+# yarn install
+# yarn dev
